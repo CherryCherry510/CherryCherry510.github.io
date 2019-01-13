@@ -4,6 +4,7 @@
 
 [01寒企死入宫跳舞行刺](https://pan.baidu.com/s/1LYSjA9RQkE5cQjfIfKNiEQ)
 [02入主承乾宫望远方对乾小四冷暴力](https://pan.baidu.com/s/1WMMXg3nInfIpHemVthwOKw)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -23,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://cherrycherry510.github.io/%E5%AF%92%E7%9B%B8%E8%A7%81.jpg)
+[Link](url) and ![Image](https://github.com/CherryCherry510/CherryCherry510.github.io/commit/d3dd40592926ea0cf5ac7881d5dea53f188bdab4#diff-4a3d38c9e53029a904df798946b9d07a)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
