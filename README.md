@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.com/CherryCherry510.github.io/CherryCherry510/寒相见.jpg)
+[Link](url) and ![Image](https://cherrycherry510.github.io/%E5%AF%92%E7%9B%B8%E8%A7%81.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
